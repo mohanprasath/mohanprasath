@@ -12,3 +12,6 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
+
+#### Resources
+[Using Wakatime Stats](https://github.com/marketplace/actions/waka-readme)

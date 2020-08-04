@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a React Developer Jobs
+- 🔭 I’m currently looking for a React Developer, ML, or DevOps Jobs
 - 🌱 I’m currently learning React, Javascript, ML, and GCP
 - 📫 How to reach me: mohanprasath
 

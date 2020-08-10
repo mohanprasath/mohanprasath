@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2020 - 08 August, 2020
+Week: 02 August, 2020 - 09 August, 2020
 
 Other        53 hrs 31 mins  ██████████████████████░░░   88.75 % 
 JavaScript   4 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 

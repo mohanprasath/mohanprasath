@@ -9,11 +9,11 @@
 ```text
 Week: 04 August, 2020 - 11 August, 2020
 
-Other        58 hrs 30 mins  █████████████████████░░░░   84.53 % 
-JavaScript   8 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Markdown     2 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other        59 hrs 38 mins  █████████████████████░░░░   84.81 % 
+JavaScript   8 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Markdown     1 hr 50 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 Python       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 <!--END_SECTION:waka-->
 

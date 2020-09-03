@@ -9,7 +9,7 @@
 ```text
 Week: 26 August, 2020 - 02 September, 2020
 
-Other   18 hrs 36 mins  █████████████████████████   100.00 % 
+Other   17 hrs 43 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

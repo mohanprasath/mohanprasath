@@ -9,7 +9,9 @@
 ```text
 Week: 28 August, 2020 - 04 September, 2020
 
-Other   17 hrs 4 mins   █████████████████████████   100.00 % 
+Other        15 hrs 44 mins  █████████████████████████   99.81 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 <!--END_SECTION:waka-->
 

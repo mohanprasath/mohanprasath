@@ -12,7 +12,6 @@ Week: 31 August, 2020 - 07 September, 2020
 Other        25 hrs 35 mins  ██████████████████████▓░░   91.28 % 
 Markdown     2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 

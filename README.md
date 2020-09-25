@@ -9,9 +9,8 @@
 ```text
 Week: 17 September, 2020 - 24 September, 2020
 
-Other        40 hrs 3 mins   ████████████████████████▓   98.66 % 
-JavaScript   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other      43 hrs 57 mins  █████████████████████████   99.45 % 
+Markdown   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -9,9 +9,9 @@
 ```text
 Week: 21 September, 2020 - 28 September, 2020
 
-Other        38 hrs 31 mins  ██████████████████████▓░░   91.00 % 
-Markdown     3 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Python       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other        40 hrs 57 mins  ██████████████████████▓░░   90.89 % 
+Markdown     3 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Python       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 <!--END_SECTION:waka-->
 

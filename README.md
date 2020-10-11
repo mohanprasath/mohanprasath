@@ -9,9 +9,8 @@
 ```text
 Week: 03 October, 2020 - 10 October, 2020
 
-Other        22 hrs 19 mins  ██████████████████████▓░░   91.19 % 
-Markdown     2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other      24 hrs 59 mins  ███████████████████████▓░   95.25 % 
+Markdown   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -9,8 +9,8 @@
 ```text
 Week: 04 October, 2020 - 11 October, 2020
 
-Other      24 hrs 59 mins  ███████████████████████▓░   95.25 % 
-Markdown   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other      28 hrs 15 mins  ███████████████████████▓░   94.35 % 
+Markdown   1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 <!--END_SECTION:waka-->
 

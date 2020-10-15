@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 06 October, 2020 - 13 October, 2020
+Week: 07 October, 2020 - 14 October, 2020
 
 Other        34 hrs 1 min    ███████████████████████▒░   93.19 % 
 Markdown     2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 

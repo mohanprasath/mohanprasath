@@ -9,10 +9,7 @@
 ```text
 Week: 13 October, 2020 - 20 October, 2020
 
-Other        1 hr 55 mins    █████████████▓░░░░░░░░░░░   54.77 % 
-Markdown     1 hr 20 mins    █████████▓░░░░░░░░░░░░░░░   38.19 % 
-Python       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown     1 hr 17 mins    █████████████████████████   99.46 % 
 ```
 <!--END_SECTION:waka-->
 

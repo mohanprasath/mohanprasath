@@ -9,7 +9,7 @@
 ```text
 Week: 17 October, 2020 - 24 October, 2020
 
-Markdown     2 hrs 58 mins   █████████████████████████   99.72 % 
+Markdown     3 hrs 49 mins   █████████████████████████   99.79 % 
 ```
 <!--END_SECTION:waka-->
 

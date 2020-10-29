@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently looking for a React Developer, Full Stack Developer, ML, or DevOps Jobs
-- 🌱 I’m currently learning React, Javascript, ML, and MongoDB
+- 🔭 I’m currently working as a data scientist.
+- 🌱 I’m currently learning tensorflow, ML, and MongoDB
 - 📫 How to reach me: mohanprasath
 
 📊 **This week I spent my time on**

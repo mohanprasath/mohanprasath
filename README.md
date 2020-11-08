@@ -9,8 +9,7 @@
 ```text
 Week: 31 October, 2020 - 07 November, 2020
 
-Python   29 mins         ██████████████████████░░░   88.17 % 
-CSV      3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Markdown   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

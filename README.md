@@ -9,8 +9,8 @@
 ```text
 Week: 03 November, 2020 - 10 November, 2020
 
-Python     14 mins         ██████████████████████░░░   87.93 % 
-Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Python     14 mins         █████████████████████▒░░░   85.33 % 
+Markdown   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 <!--END_SECTION:waka-->
 

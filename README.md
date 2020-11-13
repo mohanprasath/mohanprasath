@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
 C#         1 hr 44 mins    ████████████░░░░░░░░░░░░░   47.80 % 
 Markdown   1 hr 15 mins    ████████▓░░░░░░░░░░░░░░░░   34.24 % 

@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2020 - 17 November, 2020
+Week: 11 November, 2020 - 18 November, 2020
 
 Other      12 hrs 8 mins   ███████████████▒░░░░░░░░░   61.16 % 
 C#         4 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 % 

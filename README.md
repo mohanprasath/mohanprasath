@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2021 - 05 February, 2021
+Week: 30 January, 2021 - 06 February, 2021
 
 HTML       2 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.68 % 
 Python     2 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 % 

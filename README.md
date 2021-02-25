@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2021 - 23 February, 2021
+Week: 17 February, 2021 - 24 February, 2021
 
 Other        39 hrs 47 mins  ███████████████████████░░   91.43 % 
 HTML         2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 

@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2021 - 02 October, 2021
+Week: 27 September, 2021 - 03 October, 2021
 
 Other    39 hrs 6 mins   ██████████████████████▓░░   90.78 % 
 Python   1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 

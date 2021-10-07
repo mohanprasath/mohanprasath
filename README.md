@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 05 October, 2021
+Week: 30 September, 2021 - 06 October, 2021
 
 Other    40 hrs 38 mins  █████████████████████▓░░░   86.97 % 
 PHP      2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 

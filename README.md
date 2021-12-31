@@ -9,9 +9,9 @@
 ```text
 Week: 24 December, 2021 - 30 December, 2021
 
-Other      17 hrs 41 mins  ███████████████████████▒░   93.54 % 
-Python     1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other      19 hrs 9 mins   ███████████████████████░░   92.25 % 
+Python     1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Markdown   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 <!--END_SECTION:waka-->
 

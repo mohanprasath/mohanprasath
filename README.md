@@ -9,8 +9,8 @@
 ```text
 Week: 06 January, 2022 - 12 January, 2022
 
-Other    18 hrs 32 mins  ████████████████████████▒   97.14 % 
-Python   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Other    25 hrs 13 mins  ████████████████████████▒   97.88 % 
+Python   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 <!--END_SECTION:waka-->
 

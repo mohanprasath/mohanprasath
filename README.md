@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
 Other    4 hrs 23 mins   ████████████████████████▒   96.69 % 
 Python   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 

@@ -9,7 +9,7 @@
 ```text
 Week: 04 February, 2022 - 10 February, 2022
 
-Other   4 hrs 27 mins   █████████████████████████   100.00 % 
+Other   3 hrs 23 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

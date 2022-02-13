@@ -7,7 +7,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 Other   3 hrs 28 mins   █████████████████████████   100.00 % 
 ```

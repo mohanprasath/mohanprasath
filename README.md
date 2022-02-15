@@ -9,9 +9,10 @@
 ```text
 Week: 08 February, 2022 - 14 February, 2022
 
-Total: 0 secs
+Total: 9 mins
 
-Other   6 hrs 40 mins   █████████████████████████   100.00 % 
+Other    12 hrs 27 mins  ████████████████████████▓   98.72 % 
+Python   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 <!--END_SECTION:waka-->
 

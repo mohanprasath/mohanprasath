@@ -9,8 +9,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 30 mins
-
 Other    28 hrs 3 mins   ████████████████████████▓   98.20 % 
 Python   29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```

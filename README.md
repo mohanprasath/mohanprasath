@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a data scientist.
-- 🌱 I’m currently learning tensorflow, ML, and MongoDB
+- 🌱 I’m currently learning tensorflow, ML, MongoDB, PHP, React, Azure and AWS
 - 📫 How to reach me: mohanprasath
 
 📊 **This week I spent my time on**

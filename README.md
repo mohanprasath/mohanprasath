@@ -13,6 +13,8 @@ From: 10 July 2022 - To: 17 July 2022
 Other    42 hrs 52 mins  ████████████████████████▓   98.60 %
 ```
 
+![](https://komarev.com/ghpvc/?username=mohanprasath&label=PROFILE+VIEWS)
+
 <!--END_SECTION:waka-->
 
 #### Resources

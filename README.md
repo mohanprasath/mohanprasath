@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a data scientist.
-- 🌱 I’m currently learning PMP, PHP, GCP, Azure and AWS
+- 🌱 I’m currently learning Azure and AWS
 - 📫 How to reach me: mohanprasath
 
 

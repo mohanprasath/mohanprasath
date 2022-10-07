@@ -7,8 +7,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanprasath&show_icons=true&locale=en&layout=compact" alt="mohanprasath" /></p>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohanprasath&show_icons=true&locale=en" alt="mohanprasath" /></p>
 
